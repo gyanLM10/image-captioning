@@ -1,0 +1,20 @@
+[project]
+name = "image-captioning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "keras>=3.10.0",
+    "matplotlib>=3.10.3",
+    "pandas>=2.3.1",
+    "pillow>=11.3.0",
+    "tensorflow>=2.19.0",
+    "tensorflow-metal>=1.2.0",
+    "tqdm>=4.67.1",
+    "netron",
+    "nltk"
+]
+
+
